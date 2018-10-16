@@ -13,11 +13,8 @@ $(document).ready(function() {
           focus: true,
           toolbar: [
                ['style', ['bold', 'italic', 'underline', 'clear']],
-               ['font', ['strikethrough']],
-               ['fontsize', ['fontsize']],
-               ['insert',['picture', 'link']],
-               ['color', ['color']],
-               ['para', ['ul', 'ol', 'paragraph', 'style']],
+               ['insert',['picture', 'link', 'table']],
+               ['para', ['ul', 'ol', 'paragraph']],
                ['height', ['height']],
                ['code',['codeview']]
           ],
