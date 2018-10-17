@@ -15,7 +15,6 @@ $(document).ready(function() {
                ['style', ['bold', 'italic', 'underline', 'clear']],
                ['insert',['picture', 'link', 'table']],
                ['para', ['ul', 'ol', 'paragraph']],
-               ['height', ['height']],
                ['code',['codeview']]
           ],
     callbacks: {
